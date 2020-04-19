@@ -1,0 +1,11 @@
+.wordMainTitle{
+    color: goldenrod;
+}
+
+.tableLightArmor{
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-spacing: 5;
+    text-align: center;
+    text-align-last: center;
+    }
